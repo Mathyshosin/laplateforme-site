@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laplateformestudio.fr/sitemap.xml
